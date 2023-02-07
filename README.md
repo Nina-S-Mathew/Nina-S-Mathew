@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+
 <!--
+
 
 Hi my name is Nina Mathew and I am a high school student.
 - 😄 Pronouns: She/Her
+
 
 <h2>✍ Programming Languages</h2>
 <p>
@@ -13,6 +16,7 @@ Hi my name is Nina Mathew and I am a high school student.
 <a href="https://github.com/search?q=user%3ANina-S-Mathew+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <p>
 
+
 <h2>💻 Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
@@ -20,6 +24,7 @@ Hi my name is Nina Mathew and I am a high school student.
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
 </p>
+
 
 ## 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
