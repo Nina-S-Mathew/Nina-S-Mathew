@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi my name is Nina Mathew and I am a high school student.
+Hi my name is Nina Mathew.
 - 😄 Pronouns: She/Her
 
 
