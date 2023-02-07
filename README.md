@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 <!--
-**Nina-S-Mathew/Nina-S-Mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- Hi my name is Nina Mathew and I am a high school student.
+Hi my name is Nina Mathew and I am a high school student.
 - 😄 Pronouns: She/Her
--
---
+
 <h2>✍ Programming Languages</h2>
 <p>
 <a href="https://github.com/search?q=user%3ANina-S-Mathew+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
